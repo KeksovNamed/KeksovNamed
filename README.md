@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KeksovNamed
+- 👋 Hi, I’m @KeksovName
 - 👀 I’m interested in coding in c and other languages(later).
 - 🌱 I’m currently learning C
 - 📫 How to reach me Discord:keksovname
